@@ -32,7 +32,7 @@ Anthony Bible
 abible1@vt.edu  
 Blacksburg, VA
 
-📄 [View My Resume (PDF)](file:///C:/Users/antho/Downloads/Anthony_Bible_Resume_Summer2025.pdf)
+[View My Resume (PDF)](file:///C:/Users/antho/Downloads/Anthony_Bible_Resume_Summer2025.pdf)
 
 
 ## Course Project (Virginia Tech)
