@@ -31,8 +31,8 @@ This Decision Support System (DSS) was built in Excel using Solver and VBA to su
 Anthony Bible  
 abible1@vt.edu  
 Blacksburg, VA
+[View My Resume](https://docs.google.com/document/d/1VALrzdhRIwUq7DHzf5n_jdGelnXT5S-NEzW8F9NOhrk/edit?usp=sharing)
 
-[View My Resume (PDF)](file:///C:/Users/antho/Downloads/Anthony_Bible_Resume_Summer2025.pdf)
 
 
 ## Course Project (Virginia Tech)
