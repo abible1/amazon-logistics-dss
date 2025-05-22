@@ -20,6 +20,13 @@ This Decision Support System (DSS) was built in Excel using Solver and VBA to su
 - VBA (Visual Basic for Applications)
 - Solver Add-In
 
+## How to Use
+1. Download the `Project.xlsm` file.
+2. Open in Excel and enable macros.
+3. Use the Welcome page to navigate via buttons.
+4. Try logging in as a Manager or Employee using the credentials on the “Hidden” tab.
+
+
 ## Author
 Anthony Bible  
 abible1@vt.edu  
